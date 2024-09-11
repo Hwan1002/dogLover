@@ -38,14 +38,14 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "ABOUT ME"
+    text: "My Story"
+    body: "안녕하세요 저는 풀스택 과정을 배우고 있습니다."
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
